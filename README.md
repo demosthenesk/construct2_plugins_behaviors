@@ -1,4 +1,5 @@
 This repository contains all the plugins and behaviors created by Pode on Scirra's Construct2 forum.
+Some of them remastered by Demosthenes Koptsis
 
 For the third-party code used by some of the plugins, you need to refer to their original license.
 
